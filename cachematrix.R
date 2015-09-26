@@ -1,7 +1,7 @@
 ## One function create a list of functions that will be used in the second function
 ##
 
-## makeCacheMatrix return a list of functions 
+## makeCacheMatrix returns a list of functions 
 ## set function sets x to the matrix y from the input and reset the inverse to NULL
 ## get returns the cache matrix
 ## setinverse sets the inverse to the input of the function
